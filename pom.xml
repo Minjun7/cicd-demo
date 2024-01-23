@@ -15,7 +15,7 @@
     <description>Day 13 revision project for Spring Boot</description>
     <properties>
         <java.version>17</java.version>
-        <sonar.organization>Minjun7</sonar.organization>
+        <sonar.organization>minjun7</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
